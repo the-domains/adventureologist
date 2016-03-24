@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Travel, Adventure, Exploration and Fun]]></title>
-        <description><![CDATA[Travel, Adventure, Exploration and Fun]]></description>
+        <title><![CDATA[Travel, Adventure and Exploration]]></title>
+        <description><![CDATA[Travel, Adventure and Exploration]]></description>
         <link>https://thegrid.ai/adventureologist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 23:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 23:44:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adventureologist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ff65698-c34e-446b-b520-d14fb00fa7a7.jpg">]]></description>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Welcome! This site is all about my tales of travel and adventure around this beautiful planet of ours. All photos and videos are mine, all taken on GoPro, DSLR or iPhone. - The Adventureologist</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d433d3cf-b1b6-4a6c-bd11-8338fd954098.jpg"></article>]]></description>
             <link>https://thegrid.ai/adventureologist/welcome/index.html</link>
             <guid isPermaLink="false">5baa0560-2fa4-4765-98a9-1b6dc62ae01a</guid>
-            <pubDate>Thu, 24 Mar 2016 23:25:24 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 23:44:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
