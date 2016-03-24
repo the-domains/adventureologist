@@ -1,7 +1,7 @@
 name: The Adventureologist
 favicon: null
-layout_spectrum: 0.9751841807737947
-typography_spectrum: 0.41156177199445665
+layout_spectrum: 0.96401
+typography_spectrum: 0.05156
 title: 'Travel, Adventure, Exploration and Fun'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6961457231082022
-  lightness: 0.45386245497502387
-  saturation: 0.2408376857638359
+    - '#188f8b'
+    - '#feffff'
+    - '#091416'
+    - '#4bb5ae'
+    - '#123f3e'
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.4375
   rhythmicContrast: 0.28017786191776395
 purpose: []
