@@ -4,7 +4,7 @@
         <description><![CDATA[The Adventureologist Photo Blog]]></description>
         <link>https://thegrid.ai/adventureologist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 02:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 02:20:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adventureologist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/adventureologist/welcome/index.html</link>
             <guid isPermaLink="false">5baa0560-2fa4-4765-98a9-1b6dc62ae01a</guid>
             <pubDate>Thu, 24 Mar 2016 23:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Urban Travel]]></title>
+            <description><![CDATA[<article><h1>Urban Travel</h1><p>The Adventureologist in the City</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/766e0541bcd2f401d7a519cc58761533b20db59d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adventureologist/urban-travel/index.html</link>
+            <guid isPermaLink="false">ee10f0b7-e664-4e96-8bed-f50afa63023d</guid>
+            <pubDate>Fri, 25 Mar 2016 02:19:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Diving]]></title>
