@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Travel, Adventure and Exploration]]></title>
-        <description><![CDATA[Travel, Adventure and Exploration]]></description>
+        <title><![CDATA[The Adventureologist Photo Blog]]></title>
+        <description><![CDATA[The Adventureologist Photo Blog]]></description>
         <link>https://thegrid.ai/adventureologist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 23:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 02:17:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adventureologist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/adventureologist/welcome/index.html</link>
             <guid isPermaLink="false">5baa0560-2fa4-4765-98a9-1b6dc62ae01a</guid>
             <pubDate>Thu, 24 Mar 2016 23:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diving]]></title>
+            <description><![CDATA[<article><h1>Diving</h1><p>The Adventureologist Underwater</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c227c7466db0a78f62c66cd62e1d3f081df60f18.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adventureologist/diving/index.html</link>
+            <guid isPermaLink="false">3ad205bc-a39c-4192-8b3a-0794efa202fb</guid>
+            <pubDate>Fri, 25 Mar 2016 02:17:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
