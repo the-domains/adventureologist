@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Adventureologist in the City
-datePublished: '2016-03-25T03:35:00.695Z'
-dateModified: '2016-03-25T03:34:59.719Z'
-title: Urban Travel
+datePublished: '2016-03-25T04:06:47.279Z'
+dateModified: '2016-03-25T03:56:04.126Z'
+title: Urban
 author: []
 sourcePath: _posts/2016-03-25-urban-travel.md
 published: true
